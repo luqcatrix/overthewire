@@ -24,4 +24,18 @@ bandit12 = GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
 
 bandit13 = qQYQiHOBPR8zR61qxYqX45quvihF2uzk
 
-bandit14 = 
+bandit14 = Private key
+
+bandit15 = pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
+
+bandit16 = kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V
+
+bandit17 = Private key
+
+bandit18 = OQxXZjELndr90zuhOTDYBEomI0SZITXI
+
+bandit19 = KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
+
+bandit20 = 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
+
+bandit21 = bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY
